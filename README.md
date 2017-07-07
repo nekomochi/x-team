@@ -51,3 +51,4 @@ Help
 ----
 
 If you get stuck at any point or think something is not working correctly, please contact `exams@x-team.com`.
+https://join.x-team.com/applicant/f7961479d650e83380f0b3513c3dc842/challenge
